@@ -3554,7 +3554,6 @@ $wgConf->settings = array(
 	'wmgFlowDefaultNamespaces' => array(
 		'default' => true,
 		'nationsglorywiki' => false,
-		'lzhscpwikiwiki' => false,
 	),
 
 	// GlobalBlocking
@@ -7284,6 +7283,7 @@ $wgConf->settings = array(
 		'thelonsdalebattalionwiki' => 'Europe/London',
 		'wikapediawiki' => 'Asia/Taipei',
 		'wixosswiki' => 'Asia/Shanghai',
+		'pculsdwiki' => 'Asia/Phnom Penh',
 	),
 	
 	// Theme
